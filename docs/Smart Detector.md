@@ -24,7 +24,7 @@ The View tab of Vela's Smart Detector > General screen offers a tabular view of 
 within your organisation
 
 
-![alt text](image-2.png)
+![alt text](image-2t.png)
 
 The View tab facilitates efficient navigation of the created search queries. Users can:
 
@@ -40,7 +40,7 @@ seen in the following image.
 
 The Create tab of this screen allows you to create new auto search queries within your organisation.
 
-![alt text](image-3.png)
+![alt text](image-3t.png)
 
 **To create a new auto search query:**
 
@@ -84,7 +84,7 @@ This tab allows users to create and monitor searches specifically focused on ind
 **View** 
 Agent-specific searches are presented on the View tab in a tabular format.
 
-![alt text](image-4.png)
+![alt text](image-4t.png)
 
 The View tab facilitates efficient navigation of the created search queries. Users can:
 
@@ -96,13 +96,13 @@ Clicking on a specific agent search query gives you a view of the specific detai
 as seen in the following image.
 :::
 
-![alt text](image-5.png)
+![alt text](image-5t.png)
 
 **Create**
 
 The Create tab of this screen allows you to create new agent search queries within your organisation.
 
-![alt text](image-6.png)
+![alt text](image-6t.png)
 
 To create a new agent search query:
 
@@ -124,7 +124,7 @@ To create a new agent search query:
 
 This tab allows you to create and monitor user-defined topics for grouping calls based on specific themes or categories.
 
-![alt text](image-7.png)
+![alt text](image-7t.png)
 
 To create a new topic search: 
 

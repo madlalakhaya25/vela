@@ -43,7 +43,7 @@ prompting you to select the datapoints you'd like displayed on your dashboard.
 4. Select the data points and their corresponding view. Note that data points may be specific to a view type
 
 
-![alt text](image.png)
+![alt text](imaget.png)
 
 5. Click Save . Your dashboard is updated and displays your selected datapoints.
 
@@ -68,7 +68,7 @@ prompting you to select the datapoints you'd like displayed on your dashboard.
 8. A pop-up window appears, prompting you to select your desired view and timeframe
 
 
-![alt text](image-1.png)
+![alt text](image-1t.png)
 
 9. Select your desired view and timeframe, and click Save .
 If you should, at any point, wish to change the datapoints you have a view of, perform steps

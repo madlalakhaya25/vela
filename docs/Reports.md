@@ -7,7 +7,7 @@ sidebar_position: 5
 The Vela Reports Screen serves as a central hub for generating and reviewing reports on your 
 contact centre's performance.
 
-![alt text](image-8.png)
+![alt text](image-8t.png)
 
 View a Report
 
@@ -26,7 +26,7 @@ manipulation. Users can:
 The Create tab of this screen allows you to create and generate a report by selecting the desired
 metrics and parameters and clicking Create .
 
-![alt text](image-9.png)
+![alt text](image-9t.png)
 
 Once created, your report appears on the View tab of the page and is available to be viewed and downloaded by you and your team.
 
