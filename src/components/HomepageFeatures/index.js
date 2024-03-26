@@ -93,34 +93,6 @@ const ytVideos = [
     title: '3. Create a bot & managing intents',
     videoId: 'aqsn22rQETM',
   },
-  {
-    title: '4. Managing dialogues',
-    videoId: 'jYZUQHF0ElQ',
-  },
-  {
-    title: '5. Training and Testing',
-    videoId: 'EPUGUwNJCRs',
-  },
-  {
-    title: '6.1 How to use Entities',
-    videoId: 'X7DJs47Ycsc',
-  },
-  {
-    title: '6.2 Creating a bot that responds with an entity',
-    videoId: 'wPeY1B1vkIc',
-  },
-  {
-    title: '7. Using buttons',
-    videoId: 'K9NnmlxBBl8',
-  },
-  {
-    title: '8. Collection information using forms',
-    videoId: 'Xs6P80pWpvE',
-  },
-  {
-    title: '9. Hitting endpoints within the conversations',
-    videoId: 'noxVPmrcXfg',
-  },
 ];
 
 function Feature({ title, link, description }) {
@@ -128,7 +100,7 @@ function Feature({ title, link, description }) {
     <div className={clsx('col col--3', styles.border)}>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">
-          <a href={link}  rel="noopener noreferrer">{title}</a>
+          <a href={link} rel="noopener noreferrer">{title}</a>
         </Heading>
         <p>{description}</p>
       </div>
@@ -150,8 +122,8 @@ function YoutubeVideo({ title, videoId }) {
 export default function HomepageFeatures() {
   return (
     <div className="container">
-      <Heading as="h2" className={styles.textheading}>Bua Documentation</Heading>
-      <p className={styles.text}>Bua is a low-code platform which allows users to build, train, deploy multilingual virtual assistants that are enabled for voice commands and human handoff. This documentation suite serves as a central resource for users building and managing voice-enabled virtual assistants using the Bua platform.</p>
+      <Heading as="h2" className={styles.textheading}>Vela Documentation</Heading>
+      <p className={styles.text}>Vela is a multilingual call centre speech analytics platform designed to provide comprehensive insights into customer interactions. It operates by facilitating the creation of search queries which automatically process and analyse 100% of calls conducted in the supported South African languages. This documentation suite serves as a comprehensive guide for call centre managers and analysts on utilising Vela's functionalities to extract valuable insights from customer interactions.</p>
       <section>
         <div className="row">
           {FeatureList.map((props, idx) => (
@@ -159,8 +131,8 @@ export default function HomepageFeatures() {
           ))}
         </div>
       </section>
-      
-      <Heading as="h2" className={styles.textheading}>Bua Tutorial Videos</Heading>
+
+      <Heading as="h2" className={styles.textheading}>Vela Tutorial Videos</Heading>
       <div className="row">
         {ytVideos.map((props, idx) => (
           <YoutubeVideo key={idx} {...props} />
