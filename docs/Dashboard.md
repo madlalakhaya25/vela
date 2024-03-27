@@ -27,7 +27,7 @@ The Vela Dashboard transforms raw call centre data into a compelling narrative,g
 decision-making, operational optimisation, and  ultimately, superior customer experiences.
 
 
-**Customise your dashboard**
+## Customise your dashboard
 
 Upon first log-in, your dashboard will appear blank. This is because you first need to customise
 your dashboard to select the specific data points you would like a view of. Use the 
@@ -73,3 +73,9 @@ prompting you to select the datapoints you'd like displayed on your dashboard.
 9. Select your desired view and timeframe, and click Save .
 If you should, at any point, wish to change the datapoints you have a view of, perform steps
 1-5 again.
+
+## Contact us
+
+:::info
+We are here to help! Please [contact us](mailto:support@botlhale.ai) with any questions.
+:::

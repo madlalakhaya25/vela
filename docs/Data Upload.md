@@ -36,3 +36,9 @@ The Vela platform offers two methods for uploading your call data, depending on 
 - The batch upload function accepts zip files with a maximum size of 3 GB. 
 - For larger datasets, consider contacting Botlhale AI support for alternative upload options. Ensure your call data adheres to the specified format and schema requirements for successful processing.
 :::
+
+## Contact us
+
+:::info
+We are here to help! Please [contact us](mailto:support@botlhale.ai) with any questions.
+:::

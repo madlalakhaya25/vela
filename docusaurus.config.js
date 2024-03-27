@@ -54,6 +54,11 @@ const config = {
           alt: 'Botlhale AI Logo',
           src: 'img/logo.png',
         }, 
+        colorMode: {
+          defaultMode: 'light',
+          disableSwitch: false,
+          respectPrefersColorScheme: false,
+        },
         // items: [          
         //   {
         //     type: 'doc',

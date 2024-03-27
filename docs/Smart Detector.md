@@ -13,7 +13,7 @@ like words, phrases, or topics. Once activated, these pre-defined criteria conti
 automatically flagging matches as "issues" for further investigation and analysis. The Smart Detector page is 
 organised into 4 tabs which allows the users to create and enable various search queries.
 
-**General Search**
+## General Search
 
 This tab allows users to view and create general searches applicable to the entire corpus of call transcripts. It also
 offers offers a library of pre-built search templates for common use cases.
@@ -59,7 +59,7 @@ The Create tab of this screen allows you to create new auto search queries withi
 4. Your newly created auto search query appears on the View tab of the Smart Detector screen.
 
 
-**Templates**
+## Templates
 
 The Templates tab of this screen allows you to review and enable predefined auto search queries within your organisation.
 
@@ -77,7 +77,7 @@ The Templates tab facilitates efficient navigation of the predefined search quer
 - **Sort:** Order entries by any table column. 
 - **Filter:** Apply targeted criteria based on various parameters like the query's name, description, and status.
 
-**Agent Search**
+## Agent Search
 
 This tab allows users to create and monitor searches specifically focused on individual agents' performance, identifying of trends and areas for improvement based on flagged issues. 
 
@@ -120,7 +120,7 @@ To create a new agent search query:
 3. Once all information is entered, click on the CREATE button to establish the new agent search query. 
 4. Your newly created agent search query appears on the View tab of the Smart Detector screen.
 
-**Topic Search **
+## Topic Search
 
 This tab allows you to create and monitor user-defined topics for grouping calls based on specific themes or categories.
 
@@ -134,7 +134,7 @@ To create a new topic search:
 4. Your topic is created and displayed on the screen
 5. You can edit or delete existing topic searches using the Edit or Delete icons
 
-**Intent Search**
+## Intent Search
 
 This tab allows you to create and monitor searches which identify calls associated with particular intents within their dialogue flow.
 
@@ -146,7 +146,7 @@ To create a new intents search:
 4. Your intent is created and displayed on the screen. 
 5. You can edit or delete existing intent searches using the Edit or Delete icons
 
-**Keyword Search**
+## Keyword Search
 
 This tab allows you to create and monitor searches which track specific keywords or phrases across the call data. 
 
@@ -157,3 +157,9 @@ To create a new intents search
 3. Click Create Keyword. 
 4. Your keyword search is created and displayed on the screen.
 5. You can edit or delete existing keyword searches using the Edit or Delete icons
+
+## Contact us
+
+:::info
+We are here to help! Please [contact us](mailto:support@botlhale.ai) with any questions.
+:::
